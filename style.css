@@ -1,0 +1,8 @@
+h1 {
+    color: purple;
+    text-decoration-style: dotted;
+}
+
+a:hover {
+    color: rgb(117, 77, 2, );
+}
