@@ -1,5 +1,10 @@
-h1 {
-    color: rgb(144, 23, 144);
+h2 {
+    color: rgb(92, 91, 92);
+    text-decoration-style: dotted;
+}
+
+h3 {
+    color: rgb(116, 9, 116);
     text-decoration-style: dotted;
 }
 
@@ -10,4 +15,17 @@ a:hover {
 #photo {
     border: 2px solid black;
     border-radius: 5px;
+}
+
+h1 {
+    font: size 20px;
+    text-align: center;
+}
+
+.child {
+    border-radius: 100px;
+    border: 2px solid black;
+    display: block;
+    width: 15%;
+    margin: auto;
 }
