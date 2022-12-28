@@ -1,5 +1,5 @@
 h1 {
-    color: purple;
+    color: rgb(144, 23, 144);
     text-decoration-style: dotted;
 }
 
@@ -9,5 +9,5 @@ a:hover {
 
 #photo {
     border: 2px solid black;
-    border-radius: 12px;
+    border-radius: 5px;
 }
